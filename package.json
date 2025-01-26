@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.95.8",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.7.0",
+    "update": "^0.4.2"
+  }
+}
