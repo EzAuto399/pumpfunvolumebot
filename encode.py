@@ -26,6 +26,6 @@ def solana_private_key_to_decimal_list(private_key):
 
 # Example usage
 # Replace with your Base58-encoded private key
-private_key_base58 = "aQ7qD4UArVn6yuHHmhuWLnW96uu3jMhWyKYKd8qqrnxD4yCWxPSDG8qnQ51WuQv5KCHDh3WkuhTeiZdMFyrjjUm"
+private_key_base58 = ""
 private_key_decimal_list = solana_private_key_to_decimal_list(private_key_base58)
 print(private_key_decimal_list)
